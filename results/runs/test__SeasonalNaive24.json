@@ -1,0 +1,13 @@
+{
+ "family": "Baseline",
+ "L": "24",
+ "strategy": "directa",
+ "covariates": "No",
+ "params_total": 0,
+ "params_trainable": 0,
+ "train_time": 0.0,
+ "name": "SeasonalNaive24",
+ "split": "test",
+ "infer_time": 284.1619660519991,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
