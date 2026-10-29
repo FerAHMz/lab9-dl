@@ -1,0 +1,16 @@
+numpy==2.4.6
+pandas==2.3.3
+pyarrow==26.0.0
+matplotlib==3.11.2
+torch==2.15.0
+lightgbm==4.7.0
+statsforecast==2.1.1
+neuralforecast==3.3.0
+utilsforecast==0.2.17
+chronos-forecasting==2.3.2
+holidays==0.107
+scikit-learn==1.9.1
+jupyter==1.1.1
+nbconvert==7.17.2
+nbformat==5.11.1
+ipykernel==7.4.0

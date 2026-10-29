@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+**/data/processed/
+**/data/interim/
+data/raw/*
+!data/raw/.gitkeep
+*.log
+.DS_Store
+.env*
+.claude/settings.local.json
+lightning_logs/
+results/ckpt/
