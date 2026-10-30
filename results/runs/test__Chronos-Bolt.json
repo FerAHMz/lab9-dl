@@ -1,0 +1,19 @@
+{
+ "family": "Fundacional",
+ "L": 2048,
+ "strategy": "multi-salida (cuantiles)",
+ "covariates": "No",
+ "params_total": 205292928,
+ "params_trainable": 0,
+ "train_time": 0.0,
+ "load_time": 3.4663246249983786,
+ "quantiles": [
+  0.1,
+  0.5,
+  0.9
+ ],
+ "name": "Chronos-Bolt",
+ "split": "test",
+ "infer_time": 65.85215845800121,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
