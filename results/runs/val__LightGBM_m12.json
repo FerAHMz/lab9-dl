@@ -1,0 +1,14 @@
+{
+ "family": "\u00c1rboles",
+ "L": "rezagos 1-24,168",
+ "strategy": "recursiva",
+ "covariates": "S\u00ed",
+ "params_total": 2000,
+ "params_trainable": 2000,
+ "train_time": 81.09763204200135,
+ "months": 12,
+ "name": "LightGBM_m12",
+ "split": "val",
+ "infer_time": 5.660145375004504,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
