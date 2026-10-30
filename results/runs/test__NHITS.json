@@ -1,0 +1,14 @@
+{
+ "family": "Residuales y conv.",
+ "L": 168,
+ "strategy": "multi-salida",
+ "covariates": "S\u00ed",
+ "params_total": 3837459,
+ "params_trainable": 3837459,
+ "train_time": 1557.6689809999953,
+ "steps": 0,
+ "name": "NHITS",
+ "split": "test",
+ "infer_time": 1.7002108750020852,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

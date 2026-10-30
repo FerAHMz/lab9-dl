@@ -1,0 +1,15 @@
+{
+ "family": "Atenci\u00f3n",
+ "L": 168,
+ "strategy": "multi-salida",
+ "covariates": "No",
+ "params_total": 445467,
+ "params_trainable": 445464,
+ "train_time": 102.33009191699966,
+ "steps": 0,
+ "months": 12,
+ "name": "PatchTST_m12",
+ "split": "val",
+ "infer_time": 1.9062501250009518,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

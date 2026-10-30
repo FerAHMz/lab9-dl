@@ -1,0 +1,14 @@
+{
+ "family": "Residuales y conv.",
+ "L": 168,
+ "strategy": "multi-salida (MLP decoder)",
+ "covariates": "S\u00ed",
+ "params_total": 254425,
+ "params_trainable": 254425,
+ "train_time": 3645.6785820419973,
+ "steps": 0,
+ "name": "TCN",
+ "split": "test",
+ "infer_time": 12.858987999999954,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

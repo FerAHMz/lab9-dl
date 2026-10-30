@@ -1,0 +1,19 @@
+{
+ "family": "Probabil\u00edsticos",
+ "L": 168,
+ "strategy": "autorregresiva (muestreo)",
+ "covariates": "S\u00ed",
+ "params_total": 203654,
+ "params_trainable": 203651,
+ "train_time": 555.8785778749952,
+ "steps": 0,
+ "quantiles": [
+  0.1,
+  0.5,
+  0.9
+ ],
+ "name": "DeepAR",
+ "split": "test",
+ "infer_time": 11.258511082996847,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
