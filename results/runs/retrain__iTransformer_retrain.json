@@ -1,0 +1,8 @@
+{
+ "train_time": 1535.6224175000025,
+ "base": "iTransformer",
+ "name": "iTransformer_retrain",
+ "split": "retrain",
+ "infer_time": 1.1884997080051107,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

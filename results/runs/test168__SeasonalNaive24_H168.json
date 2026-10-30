@@ -1,0 +1,7 @@
+{
+ "H": 168,
+ "name": "SeasonalNaive24_H168",
+ "split": "test168",
+ "infer_time": 0.000648125002044253,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

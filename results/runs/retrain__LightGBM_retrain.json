@@ -1,0 +1,8 @@
+{
+ "train_time": 307.97686016700754,
+ "base": "LightGBM",
+ "name": "LightGBM_retrain",
+ "split": "retrain",
+ "infer_time": 5.023593791003805,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

@@ -1,0 +1,14 @@
+{
+ "family": "Atenci\u00f3n",
+ "L": 168,
+ "strategy": "multi-salida",
+ "covariates": "No",
+ "params_total": 1104152,
+ "params_trainable": 1104152,
+ "train_time": 508.5003482920001,
+ "steps": 0,
+ "name": "iTransformer_s43",
+ "split": "seed",
+ "infer_time": 1.126698917003523,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
