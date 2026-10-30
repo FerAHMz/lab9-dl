@@ -1,0 +1,8 @@
+{
+ "tag": "NLinear_L336_H168_m30_series_h128_l2_d0.1_lr0.001_b512_s42",
+ "H": 168,
+ "name": "NLinear_H168",
+ "split": "test168",
+ "infer_time": 0.06613033300527604,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

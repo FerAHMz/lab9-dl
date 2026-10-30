@@ -1,0 +1,17 @@
+{
+ "family": "MLP y lineales",
+ "L": 336,
+ "strategy": "multi-salida",
+ "covariates": "S\u00ed",
+ "params_total": 545816,
+ "params_trainable": 545816,
+ "train_time": 13.89237033399695,
+ "months": 30,
+ "tag": "MLP_L336_H24_m30_series_h128_l2_d0.1_lr0.001_b512_s42_ep60",
+ "val_MASE": 0.8184584975242615,
+ "peak_mem_MB": 16.88037109375,
+ "name": "MLP",
+ "split": "test",
+ "infer_time": 0.10425404199486366,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

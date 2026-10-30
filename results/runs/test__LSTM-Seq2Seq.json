@@ -1,0 +1,17 @@
+{
+ "family": "Encoder-decoder",
+ "L": 168,
+ "strategy": "encoder-decoder",
+ "covariates": "S\u00ed",
+ "params_total": 406145,
+ "params_trainable": 406145,
+ "train_time": 203.94648799999413,
+ "months": 30,
+ "tag": "LSTM-Seq2Seq_L168_H24_m30_series_h128_l2_d0.1_lr0.001_b512_s42_ep40",
+ "val_MASE": 0.9706479907035828,
+ "peak_mem_MB": 11.216796875,
+ "name": "LSTM-Seq2Seq",
+ "split": "test",
+ "infer_time": 0.6853070840006694,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

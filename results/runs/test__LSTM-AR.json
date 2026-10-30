@@ -1,0 +1,17 @@
+{
+ "family": "Recurrentes",
+ "L": 168,
+ "strategy": "autorregresiva",
+ "covariates": "S\u00ed",
+ "params_total": 203393,
+ "params_trainable": 203393,
+ "train_time": 196.8604904580061,
+ "months": 30,
+ "tag": "LSTM-AR_L168_H24_m30_series_h128_l2_d0.1_lr0.001_b512_s42_ep40",
+ "val_MASE": 1.0035719871520996,
+ "peak_mem_MB": 7.67578125,
+ "name": "LSTM-AR",
+ "split": "test",
+ "infer_time": 0.7402715409989469,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}

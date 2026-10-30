@@ -1,0 +1,17 @@
+{
+ "family": "Recurrentes",
+ "L": 168,
+ "strategy": "multi-salida",
+ "covariates": "S\u00ed",
+ "params_total": 247448,
+ "params_trainable": 247448,
+ "train_time": 177.9842757919978,
+ "months": 30,
+ "tag": "LSTM-MIMO_L168_H24_m30_series_h128_l2_d0.1_lr0.001_b512_s42_ep40",
+ "val_MASE": 0.9967886209487916,
+ "peak_mem_MB": 8.189453125,
+ "name": "LSTM-MIMO",
+ "split": "test",
+ "infer_time": 0.751043167001626,
+ "hardware": "Apple M4 Pro (MPS), arm64"
+}
